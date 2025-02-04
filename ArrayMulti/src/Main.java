@@ -13,6 +13,15 @@ public class Main {
 
             }
             System.out.println("");
+
+
+
+
+
+
+
+//Se
+            System.out.println(config[XTEST][CAMB]);
         }
     }
 }
